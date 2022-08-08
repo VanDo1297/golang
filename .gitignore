@@ -1,0 +1,14 @@
+# Mac OS X files
+.DS_Store
+
+#idea project files
+.idea/
+
+#glide library
+src/github.com/
+
+#dependencies
+src/vendor
+
+api_client/
+deployment.zip
